@@ -15,7 +15,8 @@
     <a href="?ddd">MOJE</a>
     <a href="?ddd2">miastoto</a>
     <a href="?corn">BIALYSTOK</a>
-    <a href="https://qbinekp.github.io/qbinekp.github.io"> KLIK - wysyła fekalną paczkę na Szkolna17</a>
+    <a href="https://qbinekp.github.io/qbinekp.github.io"> *KLIKNIJ TUTAJ - wysyła fekalną paczkę na Szkolna17*</a>
+    <h3>klikasz START, czekasz do 925 i wtedy STOP, resetujesz apke i bangla</h3>
     <button class="napierdalacz">
       <img src="https://i.imgur.com/9t7Z73i.jpg" width="100" height="100" />
     </button>
